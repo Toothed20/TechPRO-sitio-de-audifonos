@@ -4,8 +4,8 @@
 
 ---
 
-## 🔗 Enlaces Importantes <!--! Pendiente -->
-<!-- - **Demo en vivo:** [Ver Proyecto](https://tu-enlace-aqui.com) -->
+## 🔗 Enlaces Importantes
+- **Demo en vivo:** [Ver Proyecto](https://techpro-tienda-audifonos.netlify.app/)
 - **Curso de Udemy:** [Link a Udemy](https://www.udemy.com/share/101uW43@SWP1cnJBVUulK_2Ag0RvSFblytu99Wqvfrntgad6UEn6dojaLTJfCZ1mIzOUoHAdeg==/)
 
 ## 📸 Vista Previa
